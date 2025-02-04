@@ -195,6 +195,17 @@ public partial class @ActionInput: IInputActionCollection2, IDisposable
                 },
                 {
                     ""name"": """",
+                    ""id"": ""731ef1e8-b1c1-4bfa-beb3-fac943b35403"",
+                    ""path"": ""<Gamepad>/leftStick"",
+                    ""interactions"": """",
+                    ""processors"": """",
+                    ""groups"": "";Gamepad"",
+                    ""action"": ""Move"",
+                    ""isComposite"": false,
+                    ""isPartOfComposite"": false
+                },
+                {
+                    ""name"": """",
                     ""id"": ""0eb9dee7-0f25-47b9-afcf-3c9c091d636a"",
                     ""path"": ""<Keyboard>/space"",
                     ""interactions"": """",
