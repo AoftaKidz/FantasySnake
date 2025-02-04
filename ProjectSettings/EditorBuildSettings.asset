@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/TitleScene.unity
+    guid: abcfe540341081f4488fe7658f0fe7dd
+  - enabled: 1
+    path: Assets/Scenes/GameplayScene.unity
+    guid: da17f4e34866b694fa9e56b8a5818645
+  m_configObjects:
+    com.unity.input.settings: {fileID: 11400000, guid: 573c9782a82d97f49b67ff034f60b2ed, type: 2}
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 92a3dd91c970c314ba836af5c1c6aa3c, type: 3}
+  m_UseUCBPForAssetBundles: 0
